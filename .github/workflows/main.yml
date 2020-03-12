@@ -27,4 +27,4 @@ jobs:
       - uses: actions/upload-artifact@v1
         with:
           name: artifact
-          path: ./SS%20Tool%20Box/bin/Debug
+          path: './SS Tool Box/bin/Debug'
